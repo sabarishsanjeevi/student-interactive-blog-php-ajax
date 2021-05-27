@@ -56,12 +56,15 @@ Admin Authentication<br>
 ![image](https://user-images.githubusercontent.com/57557106/119770453-d8d5c100-bed9-11eb-903e-c56ce6cd472f.png)
 
 <h3>Registration/Login</h3><br>
+
 ![image](https://user-images.githubusercontent.com/57557106/119770777-497cdd80-beda-11eb-8734-2f8d82ad04c8.png)
 
 <h3>Blog Posts</h3><br>
+
 ![image](https://user-images.githubusercontent.com/57557106/119770833-5e597100-beda-11eb-8924-d79746899247.png)
 
 <h3>Blog Image Upload</h3><br>
+
 ![image](https://user-images.githubusercontent.com/57557106/119770913-7c26d600-beda-11eb-9da2-774ce463d383.png)
 
 And much more in the blog.
